@@ -1,0 +1,44 @@
+{
+  "personal": {
+    "name": "Samuel Vaz",
+    "email": "samsung@gmail.com",
+    "phone": "11 99999-2000",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "04956935021",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/document2.pdf",
+    "description": "Necessito aprender o máximo possível sobre o Cypress, para Crescer na minha área",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "Robot Framework",
+      "Playwright",
+      "WebDriverIO"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Pedro Goes",
+    "email": "Sudowudo@pokemon.com.br",
+    "phone": "11 99999-2000",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "37589701000118",
+    "discoveryChannels": [
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/document2.pdf",
+    "description": "Necessito aprender o máximo possível sobre o Cypress, para Crescer na minha área",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}
